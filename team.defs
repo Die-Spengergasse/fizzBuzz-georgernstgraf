@@ -1,4 +1,4 @@
-#Thu Dec 05 18:03:13 CET 2024
+#Thu Dec 05 18:06:21 CET 2024
 bluej.teamsettings.ignore1=.*\\.class
 bluej.teamsettings.yourName=Georg Graf
 bluej.teamsettings.git.server=github.com
@@ -6,6 +6,7 @@ bluej.teamsettings.yourEmail=grafg@spengergasse.at
 bluej.teamsettings.git.repositoryPrefix=/Die-Spengergasse/fizzBuzz-georgernstgraf.git
 bluej.teamsettings.vcs=git
 bluej.teamsettings.user=georgernstgraf
+bluej.teamsettings.savedpwd=bOswIQ7tswBAmzI+lAFfg0qf27ebVsoRgSZHW6xSmQ75bSVTii1B+sVo67EiIKCi
 bluej.teamsettings.ignore3=team\\.defs
 bluej.teamsettings.ignore2=bluej\\.pkh
 bluej.teamsettings.ignore5=.*\\~
