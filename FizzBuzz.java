@@ -1,18 +1,6 @@
-
-/**
- * Write a description of class FizzBuzz here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class FizzBuzz
 {
-    // instance variables - replace the example below with your own
     private int x;
-
-    /**
-     * Constructor for objects of class FizzBuzz
-     */
     public FizzBuzz()
     {
         // initialise instance variables
